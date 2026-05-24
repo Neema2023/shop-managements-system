@@ -1,4 +1,4 @@
-# 🛍️ ShopOS - Professional Shop Management System
+#  Shop Management System
 
 > A complete, production-ready shop management system with role-based authentication, beautiful dashboards, and comprehensive features.
 
@@ -79,33 +79,8 @@ Password: customer123
 
 ---
 
-## 🎨 Design Highlights
 
-### **Professional UI**
-- Modern dark sidebar with gradients
-- Role-specific color schemes
-- Hero sections with stunning images
-- Interactive charts and graphs
-- Smooth animations and transitions
-- Toast notifications
-
-### **Images Used**
-- Modern retail store interior
-- Business manager workspace
-- Cashier checkout counter
-- Happy customer shopping
-- Electronics & fashion products
-- Warehouse inventory
-
-### **Color Palette**
-- **Admin**: Red (`#dc2626`)
-- **Manager**: Blue (`#2563eb`)
-- **Cashier**: Green (`#16a34a`)
-- **Customer**: Purple (`#9333ea`)
-
----
-
-## 📊 Technical Stack
+## Technical Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -192,25 +167,9 @@ src/
 ---
 
 
-## 🔥 Highlights
 
-✨ **Production-Ready** - Complete, functional system
-🎨 **Beautiful Design** - Professional UI/UX
-📊 **Data Visualization** - Interactive charts
-🔐 **Secure** - Role-based authentication
-📱 **Responsive** - Works on all devices
-⚡ **Fast** - Optimized performance
-🎯 **Type-Safe** - Full TypeScript support
-♿ **Accessible** - WCAG compliant
 
----
 
-## 📚 Documentation
-
-- **[SHOP_SYSTEM_GUIDE.md](./SHOP_SYSTEM_GUIDE.md)** - Complete system documentation
-- **[QUICK_START.md](./QUICK_START.md)** - Quick start guide
-
----
 
 ## 🛠️ Development
 
@@ -242,11 +201,11 @@ npm run build
 
 
 
-## 🤝 Support
+##  Support
 
 For questions or issues, please refer to the documentation files included in this project.
 
 ---
 
-**Built with ❤️ using React, TypeScript, and Tailwind CSS**
+
 
